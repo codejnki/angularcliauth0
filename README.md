@@ -6,7 +6,7 @@ This repo is to demonstrate an error with Auth0 built with the Angular CLI.
 
 After adding the auth0-lock package and doing the production build, the development version of React is minified causing this browser error.
 
-![browser error](react-error.png)
+![browser error](/react-error.PNG?raw=true)
 
 I created a new empty angular app with the CLI.  I then added the auth0-lock package.
 
